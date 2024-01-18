@@ -9,3 +9,4 @@ The Attendance System is designed to streamline the attendance management proces
 - Option to save reports to an external Excel sheet
 - User data management, including adding, updating, or deleting entries in the JSON file
 
+Developed by: Amir Ezzat  tel/ +201201266124
